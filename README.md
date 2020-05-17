@@ -30,7 +30,7 @@ sudo alsa force-reload
 
 ## Acknowledgments
 
-* This is NOT my work(refer to auhor)
+* This is NOT my work(refer to author)
 * I merged things needed to make it work 
 
 ## Sources
