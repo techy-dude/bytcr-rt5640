@@ -1,16 +1,24 @@
 # Project Title
-bycr-rt5640
+byctr-rt5640
 
+### Prerequisites
+-Git
 
-### Installing
+### Installing(choose one)
+
+*using terminal
+git clone https://github.com/techy-dude/bytcr-rt5640.git
+sudo cp -rf ~/bytcr-rt5640-sound-card/bytcr-rt5640 /usr/share/alsa/ucm
+sudo cp -rf ~/bytcr-rt5640-sound-card/asound.state /var/lib/alsa/
+sudo alsa force-reload
+
+*manual
 1.copy 'bytcr-5640' folder to usr/share/alsa/ucm
-
 2.copy 'asound.state' to var/lib/alsa (replace the original one)
-
 
 ## Authors
 
-* **Mr.Pilbossart**  - [plbossart](https://github.com/plbossart)
+* **MR.Pilbossart**  - [plbossart](https://github.com/plbossart)
 
 
 ## Acknowledgments
