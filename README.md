@@ -8,7 +8,7 @@ byctr-rt5640
 
 * **using terminal**
 
-git clone https://github.com/techy-dude/bytcr-rt5640.git
+git clone https://github.com/techy-dude/bytcr-rt5640-sound-card.git
 
 sudo cp -rf ~/bytcr-rt5640-sound-card/bytcr-rt5640 /usr/share/alsa/ucm
 
