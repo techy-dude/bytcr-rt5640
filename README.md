@@ -7,6 +7,7 @@ byctr-rt5640
 ### Installing(choose one)
 
 * **using terminal (RECOMMENDED)**
+
 apt install git
 
 git clone https://github.com/techy-dude/bytcr-rt5640-sound-card.git
