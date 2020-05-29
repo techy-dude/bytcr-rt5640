@@ -1,4 +1,4 @@
-# Project Title
+# To see full instruction , go to https://techy-dudes.blogspot.com/2020/05/in-this-tutorial-im-going-to-show-you.html
 byctr-rt5640
 
 ### Prerequisites
